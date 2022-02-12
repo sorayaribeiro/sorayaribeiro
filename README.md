@@ -1,7 +1,7 @@
 ### lá! Eu sou a Soraya Ribeiro 👋
 
 - 🔭 Hoje trabalho com VBA
-- 🌱 Estudando Inglês e TypeScript
+- 🌱 Estudando Inglês e React
 - 💬 Contate-me pelo email soraya_alr@yahoo.com.br
 - 😄 Pronouns: Ela
 
