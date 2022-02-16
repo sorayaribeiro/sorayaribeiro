@@ -1,4 +1,4 @@
-### lá! Eu sou a Soraya Ribeiro 👋
+### Olá! Eu sou a Soraya Ribeiro 👋
 
 - 🔭 Hoje trabalho com VBA
 - 🌱 Estudando Inglês e React
