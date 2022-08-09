@@ -37,6 +37,9 @@
   <a href="https://twitter.com/Domchili" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" align="left" target="_blank"></a><br><br>
  
  </div>
+ ##
+ 
+ Este perfil foi retirado do canal da Rafaella Ballerini, link do vídeo https://www.youtube.com/watch?v=TsaLQAetPLU
   
   
 ![Snake animation](https://github.com/sorayaribeiro/sorayaribeiro/blob/output/github-contribution-grid-snake.svg)
