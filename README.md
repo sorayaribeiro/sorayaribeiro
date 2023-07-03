@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Soraya Ribeiro 👋
 
-- 🌱 Estudando Inglês e Python
+- 🌱 Estudando Inglês e Javascript
 - 💬 Contate-me pelo email soraya_alr@yahoo.com.br
 - 😄 Pronouns: Ela
 
