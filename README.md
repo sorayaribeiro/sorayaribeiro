@@ -38,9 +38,3 @@
  
  </div>
   
-
-
-  
-  
-  
-   Este perfil foi retirado do canal da Rafaella Ballerini, link do vídeo https://www.youtube.com/watch?v=TsaLQAetPLU
